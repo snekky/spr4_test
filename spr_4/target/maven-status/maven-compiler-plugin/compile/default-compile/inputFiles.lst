@@ -1,0 +1,8 @@
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/entities/User.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/entities/UserField.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/Application.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/entities/Role.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/services/UserService.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/controllers/MainController.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/SecurityConfig.java
+/home/snigo/IdeaProjects/spr_4/src/main/java/home/login/repositories/UserRepository.java
